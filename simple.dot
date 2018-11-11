@@ -1,0 +1,5 @@
+strict graph "" {
+	Dicer1 -- R2D2;
+	Dicer1 -- Ago1;
+	DGCR8 -- Dicer1;
+}
